@@ -1,3 +1,2 @@
 some_file
 new line
-3rd line
